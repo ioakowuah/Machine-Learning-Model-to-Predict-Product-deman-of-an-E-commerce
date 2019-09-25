@@ -1,2 +1,2 @@
-# Machine-Learning-Model-to-Predict-Product-deman-of-an-E-commerce
+# Machine-Learning-Model-to-Predict-Product-demand-of-an-E-commerce
 An e-commerce requires an approach for which they can know the demand of their customer. In which way they can know the product to keep in stock and for others they can run a promo to increase revenue. I built a statistical model (Random Forest) to help them as a Data Analyst. I go ahead to do Exploratoryb data analysis to comprehend and insight how they have been performing for their product. 
